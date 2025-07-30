@@ -1,0 +1,14 @@
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\bin\Debug\net8.0\ConversionDistancias.exe
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\bin\Debug\net8.0\ConversionDistancias.deps.json
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\bin\Debug\net8.0\ConversionDistancias.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\bin\Debug\net8.0\ConversionDistancias.dll
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\bin\Debug\net8.0\ConversionDistancias.pdb
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.dll
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\refint\ConversionDistancias.dll
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.pdb
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ConversionDistancias.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Itla\Curso de C# .Net Intermedio\Módulo1\Creación y usos de objetos\ConversionDistancias\ConversionDistancias\obj\Debug\net8.0\ref\ConversionDistancias.dll
