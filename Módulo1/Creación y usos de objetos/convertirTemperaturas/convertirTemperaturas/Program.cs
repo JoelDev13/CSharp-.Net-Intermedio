@@ -11,6 +11,8 @@ public class program
         Console.WriteLine($"Fahrenheit: {tempF}");
         Console.WriteLine($"Convertido a Celsius: {tempC}");
 
+        Console.WriteLine($"-----------------------------");
+
         TemperaturaCelsius otraTempC = new TemperaturaCelsius(0);
         TemperaturaFahrenheit otraTempF = otraTempC.ConvertirAFahrenheit();
 
