@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|c:\\users\\la\\desktop\\programacion\\itla\\curso de c# .net intermedio\\m\u00F3dulo1\\programaci\u00F3n orientada a objetos\\gestionnomina\\gestionnomina\\factory\\empleadofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|solutionrelative:gestionnomina\\factory\\empleadofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|c:\\users\\la\\desktop\\programacion\\itla\\curso de c# .net intermedio\\m\u00F3dulo1\\programaci\u00F3n orientada a objetos\\gestionnomina\\gestionnomina\\menuconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|solutionrelative:gestionnomina\\menuconsola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|c:\\users\\la\\desktop\\programacion\\itla\\curso de c# .net intermedio\\m\u00F3dulo1\\programaci\u00F3n orientada a objetos\\gestionnomina\\gestionnomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|solutionrelative:gestionnomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|c:\\users\\la\\desktop\\programacion\\itla\\curso de c# .net intermedio\\m\u00F3dulo1\\programaci\u00F3n orientada a objetos\\gestionnomina\\gestionnomina\\nominamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|solutionrelative:gestionnomina\\nominamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|c:\\users\\la\\desktop\\programacion\\itla\\curso de c# .net intermedio\\m\u00F3dulo1\\programaci\u00F3n orientada a objetos\\gestionnomina\\gestionnomina\\tipoempleado\\empleadoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F096D6A5-CF2B-479D-8C64-2BA7FCC69CA0}|GestionNomina\\GestionNomina.csproj|solutionrelative:gestionnomina\\tipoempleado\\empleadoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\Program.cs",
+              "RelativeDocumentMoniker": "GestionNomina\\Program.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\Program.cs",
+              "RelativeToolTip": "GestionNomina\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T02:45:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuConsola.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\MenuConsola.cs",
+              "RelativeDocumentMoniker": "GestionNomina\\MenuConsola.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\MenuConsola.cs",
+              "RelativeToolTip": "GestionNomina\\MenuConsola.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T02:30:49.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoFactory.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\Factory\\EmpleadoFactory.cs",
+              "RelativeDocumentMoniker": "GestionNomina\\Factory\\EmpleadoFactory.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\Factory\\EmpleadoFactory.cs",
+              "RelativeToolTip": "GestionNomina\\Factory\\EmpleadoFactory.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T01:58:42.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NominaManager.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\NominaManager.cs",
+              "RelativeDocumentMoniker": "GestionNomina\\NominaManager.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\NominaManager.cs",
+              "RelativeToolTip": "GestionNomina\\NominaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T01:55:21.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoPorHora.cs",
+              "DocumentMoniker": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\TipoEmpleado\\EmpleadoPorHora.cs",
+              "RelativeDocumentMoniker": "GestionNomina\\TipoEmpleado\\EmpleadoPorHora.cs",
+              "ToolTip": "C:\\Users\\la\\Desktop\\Programacion\\Itla\\Curso de C# .Net Intermedio\\M\u00F3dulo1\\Programaci\u00F3n Orientada a Objetos\\GestionNomina\\GestionNomina\\TipoEmpleado\\EmpleadoPorHora.cs",
+              "RelativeToolTip": "GestionNomina\\TipoEmpleado\\EmpleadoPorHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T02:03:27.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
