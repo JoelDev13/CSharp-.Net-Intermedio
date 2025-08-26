@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KISS", "KISS", "{2C0BF03F-5CB1-465A-8386-3685B3606F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiss", "Kiss\Kiss.csproj", "{32ABB95F-9BE0-4DE5-AA28-27E6DC79D360}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{4282C63F-7861-4E72-9C8F-4D5C7CF96CAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YAGNI", "YAGNI", "{FB5AA554-6AE4-424E-94D3-F9132FDE3825}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DRY", "DRY", "{6600DA25-9FEF-47D7-80BB-D62353D5B779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dry", "Dry\Dry.csproj", "{662A9B77-95F3-483F-8550-44934DB0F2FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid", "Solid\Solid.csproj", "{7C3B1915-50B4-432B-BB15-8CFB02235F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yagni", "Yagni\Yagni.csproj", "{616A15E9-C63E-45E7-BB8F-C21AE0B438FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32ABB95F-9BE0-4DE5-AA28-27E6DC79D360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32ABB95F-9BE0-4DE5-AA28-27E6DC79D360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32ABB95F-9BE0-4DE5-AA28-27E6DC79D360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32ABB95F-9BE0-4DE5-AA28-27E6DC79D360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{662A9B77-95F3-483F-8550-44934DB0F2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662A9B77-95F3-483F-8550-44934DB0F2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662A9B77-95F3-483F-8550-44934DB0F2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662A9B77-95F3-483F-8550-44934DB0F2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3B1915-50B4-432B-BB15-8CFB02235F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3B1915-50B4-432B-BB15-8CFB02235F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3B1915-50B4-432B-BB15-8CFB02235F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3B1915-50B4-432B-BB15-8CFB02235F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616A15E9-C63E-45E7-BB8F-C21AE0B438FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616A15E9-C63E-45E7-BB8F-C21AE0B438FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616A15E9-C63E-45E7-BB8F-C21AE0B438FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616A15E9-C63E-45E7-BB8F-C21AE0B438FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32ABB95F-9BE0-4DE5-AA28-27E6DC79D360} = {2C0BF03F-5CB1-465A-8386-3685B3606F04}
+		{662A9B77-95F3-483F-8550-44934DB0F2FA} = {6600DA25-9FEF-47D7-80BB-D62353D5B779}
+		{7C3B1915-50B4-432B-BB15-8CFB02235F4A} = {4282C63F-7861-4E72-9C8F-4D5C7CF96CAC}
+		{616A15E9-C63E-45E7-BB8F-C21AE0B438FC} = {FB5AA554-6AE4-424E-94D3-F9132FDE3825}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C08C9EE-F160-4F98-84FA-F18E9CD1C774}
+	EndGlobalSection
+EndGlobal
