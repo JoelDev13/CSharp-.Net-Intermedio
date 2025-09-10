@@ -1,0 +1,24 @@
+Opciones de cadena de conexión para DOCKER:
+
+1. Puerto estándar 1433:
+Server=localhost,1433;Database=SchoolDb;User Id=sa;Password=tu_password;TrustServerCertificate=True;MultipleActiveResultSets=true
+
+2. Puerto personalizado (ejemplo 1434):
+Server=localhost,1434;Database=SchoolDb;User Id=sa;Password=tu_password;TrustServerCertificate=True;MultipleActiveResultSets=true
+
+3. Con nombre del contenedor:
+Server=nombre_contenedor,1433;Database=SchoolDb;User Id=sa;Password=tu_password;TrustServerCertificate=True;MultipleActiveResultSets=true
+
+4. Con IP del contenedor:
+Server=172.17.0.2,1433;Database=SchoolDb;User Id=sa;Password=tu_password;TrustServerCertificate=True;MultipleActiveResultSets=true
+
+Para verificar tu contenedor Docker:
+docker ps
+
+Para ver los puertos mapeados:
+docker port nombre_contenedor
+
+Para ver la IP del contenedor:
+docker inspect nombre_contenedor | findstr IPAddress
+
+IMPORTANTE: Reemplaza "tu_password" con la contraseña que configuraste para el usuario 'sa' en Docker
